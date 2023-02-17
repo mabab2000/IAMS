@@ -1,2 +1,0 @@
-# IAMS
- internship project
